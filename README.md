@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sharutok
 - 👀 I’m interested in web development/Front-End development
 - 🌱 I’m currently learning Express.js, API testing ,Back-End stuff.
-- Hobbies like playing 🎸 , weekend 🚴 ,Aquarium hobbyist 🐟.
+- Hobbies like playing 🎸, weekend 🚴, Aquarium hobbyist 🐟.
 - 📫 Reach me on yosharankudtarkar@gmail.com
 
 <!---
